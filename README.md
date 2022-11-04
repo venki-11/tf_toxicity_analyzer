@@ -1,7 +1,7 @@
 # FS'TIVAL 22
-Team name : Computer Crew
-Tool name : Tensorflow
-Team members : 
+# Team name : Computer Crew
+# Tool name : Tensorflow
+# Team members : 
 1. Harsha Prada M D(20C030)
 2. Sri Saila A S(20C087)
 3. Venkata Subramani A T(20C104)
