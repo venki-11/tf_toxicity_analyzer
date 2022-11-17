@@ -1,9 +1,11 @@
 from symbol import parameters
+
 import requests
 import pandas as pd
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras.layers import TextVectorization
+
 
 base_url="https://api.telegram.org/bot5668701212:AAG-LrOaB4YT7T6P5uYQKM2KbzNdnbTKDgM"
 
