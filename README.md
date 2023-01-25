@@ -9,6 +9,5 @@
 # Problem Statement
 To analyse the comments/messages posted in the social media and to categorize whether it is toxic, obscene, threat or a insult. To expose the toxic level of the real time comments sent by the users on the online platform and to detect them using tensorflow.
 
-# Installation
-
-# Usage Instructions
+# OUTPUT
+![Screenshot from 2023-01-26 00-44-53](https://user-images.githubusercontent.com/94778216/214582812-6cb1fb68-9928-42f7-80d9-67e2d8049f81.png)
