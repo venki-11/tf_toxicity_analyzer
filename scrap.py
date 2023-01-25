@@ -7,7 +7,7 @@ import numpy as np
 from tensorflow.keras.layers import TextVectorization
 
 
-base_url="https://api.telegram.org/bot5668701212:AAG-LrOaB4YT7T6P5uYQKM2KbzNdnbTKDgM"
+base_url="https://api.telegram.org/your api"
 
 df = pd.read_csv('train.csv')
 X = df['comment_text']
