@@ -12,7 +12,7 @@ ROOT.title("Toxicity analyzer")
 ROOT.geometry('400x300')
 LOOP_ACTIVE = True
 
-base_url="https://api.telegram.org/bot5668701212:AAGTZ31hwY7nfSalRgDKZj-Dtb24kYHfDdc"
+base_url="https://api.telegram.org/bot5668701212:#######"
 
 df = pd.read_csv('train.csv')
 X = df['comment_text']
